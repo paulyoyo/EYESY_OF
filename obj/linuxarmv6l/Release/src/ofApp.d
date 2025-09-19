@@ -1,8 +1,8 @@
 obj/linuxarmv6l/Release/src/ofApp.o: \
- /home/music/openFrameworks/apps/myApps/eyesy/src/ofApp.cpp \
- /home/music/openFrameworks/apps/myApps/eyesy/src/ofApp.h \
- /home/music/openFrameworks/libs/openFrameworks/ofMain.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofConstants.h \
+ /sdcard/openFrameworks/apps/myApps/eyesy/src/ofApp.cpp \
+ /sdcard/openFrameworks/apps/myApps/eyesy/src/ofApp.h \
+ ../../../libs/openFrameworks/ofMain.h \
+ ../../../libs/openFrameworks/utils/ofConstants.h \
  /opt/vc/include/bcm_host.h \
  /opt/vc/include/interface/vmcs_host/vc_dispmanx.h \
  /opt/vc/include/interface/vcos/vcos.h \
@@ -77,351 +77,351 @@ obj/linuxarmv6l/Release/src/ofApp.o: \
  /opt/vc/include/EGL/../KHR/khrplatform.h \
  /opt/vc/include/interface/vmcs_host/vc_dispmanx.h \
  /opt/vc/include/EGL/eglext.h /opt/vc/include/EGL/eglext_brcm.h \
- /home/music/openFrameworks/libs/tess2/include/tesselator.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofFileUtils.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofLog.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofSystemUtils.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofURLFileLoader.h \
- /home/music/openFrameworks/libs/openFrameworks/events/ofEvents.h \
- /home/music/openFrameworks/libs/openFrameworks/events/ofEventUtils.h \
- /home/music/openFrameworks/libs/openFrameworks/events/ofEvent.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofTimer.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofUtils.h \
- /home/music/openFrameworks/libs/utf8/include/utf8.h \
- /home/music/openFrameworks/libs/utf8/include/utf8/checked.h \
- /home/music/openFrameworks/libs/utf8/include/utf8/core.h \
- /home/music/openFrameworks/libs/utf8/include/utf8/unchecked.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofFpsCounter.h \
- /home/music/openFrameworks/libs/glm/include/glm/vec2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/qualifier.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../simd/platform.h \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec2.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/./compute_vector_relational.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/./setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint2_precision.hpp \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofThread.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofThreadChannel.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofJson.h \
- /home/music/openFrameworks/libs/json/include/json.hpp \
- /home/music/openFrameworks/libs/openFrameworks/types/ofParameter.h \
- /home/music/openFrameworks/libs/openFrameworks/types/ofPoint.h \
- /home/music/openFrameworks/libs/openFrameworks/math/ofVec3f.h \
- /home/music/openFrameworks/libs/openFrameworks/math/ofVec2f.h \
- /home/music/openFrameworks/libs/openFrameworks/math/ofMathConstants.h \
- /home/music/openFrameworks/libs/glm/include/glm/fwd.hpp \
- /home/music/openFrameworks/libs/openFrameworks/math/ofVec4f.h \
- /home/music/openFrameworks/libs/glm/include/glm/vec4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec4.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/vec3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec3.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint3_precision.hpp \
- /home/music/openFrameworks/libs/openFrameworks/types/ofRectangle.h \
- /home/music/openFrameworks/libs/openFrameworks/types/ofColor.h \
- /home/music/openFrameworks/libs/glm/include/glm/common.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/_fixes.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/func_common.inl \
- /home/music/openFrameworks/libs/glm/include/glm/detail/../vector_relational.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/../detail/func_vector_relational.inl \
- /home/music/openFrameworks/libs/glm/include/glm/detail/compute_common.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/type_vec1.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/type_vec1.inl \
- /home/music/openFrameworks/libs/glm/include/glm/detail/_vectorize.hpp \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofXml.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofGraphicsConstants.h \
- /home/music/openFrameworks/libs/openFrameworks/types/ofTypes.h \
- /home/music/openFrameworks/libs/openFrameworks/types/ofParameterGroup.h \
- /home/music/openFrameworks/libs/openFrameworks/math/ofMath.h \
- /home/music/openFrameworks/libs/glm/include/glm/gtc/constants.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtc/../ext/scalar_constants.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtc/../ext/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtc/../ext/scalar_constants.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtc/constants.inl \
- /home/music/openFrameworks/libs/openFrameworks/math/ofVectorMath.h \
- /home/music/openFrameworks/libs/glm/include/glm/mat3x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_double3x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_mat3x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_mat3x3.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../matrix.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat2x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x2.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat2x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat2x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat3x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat3x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat4x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x2.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat4x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat4x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x4.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/func_matrix.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/../geometric.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/../detail/func_geometric.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/../detail/../exponential.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/../detail/../detail/func_exponential.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_double3x3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_float3x3.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_float3x3_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/trigonometric.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/func_trigonometric.inl \
- /home/music/openFrameworks/libs/glm/include/glm/ext.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/glm.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/packing.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/func_packing.inl \
- /home/music/openFrameworks/libs/glm/include/glm/detail/type_half.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/type_half.inl \
- /home/music/openFrameworks/libs/glm/include/glm/integer.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/detail/func_integer.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_relational.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_relational.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/vector_relational.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/vector_relational.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/../detail/type_float.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/quaternion_double.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_quat.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../ext/quaternion_relational.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../ext/quaternion_relational.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/matrix_transform.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_projection.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_projection.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_clip_space.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_clip_space.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_transform.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_transform.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/matrix_transform.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_quat.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../ext/quaternion_geometric.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../ext/quaternion_geometric.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/quaternion_double_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/quaternion_float.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/quaternion_float_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/scalar_int_sized.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/scalar_relational.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/scalar_relational.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/scalar_uint_sized.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool1.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool1_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double1.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double1_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float1.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float1_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int1.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int1_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint1.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint1_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/bitfield.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/type_precision.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/quaternion.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_common.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_common.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_trigonometric.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_trigonometric.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_transform.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_transform.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/quaternion.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/epsilon.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/epsilon.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/vec1.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/type_precision.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/bitfield.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../simd/integer.h \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/color_space.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/color_space.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/integer.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/integer.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_access.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_access.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_integer.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_inverse.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_inverse.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/noise.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../detail/_noise.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/noise.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/packing.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/packing.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/random.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/random.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/reciprocal.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/reciprocal.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/round.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/round.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/vector_integer.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/vector_integer.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/scalar_integer.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/scalar_integer.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/type_ptr.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/type_ptr.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/ulp.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/ulp.inl \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/scalar_ulp.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/scalar_ulp.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/norm.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/quaternion.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/../ext/quaternion_exponential.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/../ext/quaternion_exponential.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/quaternion.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/component_wise.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/../detail/setup.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/component_wise.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/norm.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/perpendicular.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/projection.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/projection.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/perpendicular.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/rotate_vector.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/transform.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/transform.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/rotate_vector.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/spline.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/optimum_pow.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/optimum_pow.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/spline.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/vector_angle.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/vector_angle.inl \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/scalar_multiplication.hpp \
- /home/music/openFrameworks/libs/glm/include/glm/gtx/../detail/setup.hpp \
- /home/music/openFrameworks/libs/openFrameworks/math/ofMatrix3x3.h \
- /home/music/openFrameworks/libs/openFrameworks/math/ofMatrix4x4.h \
- /home/music/openFrameworks/libs/openFrameworks/math/ofQuaternion.h \
- /home/music/openFrameworks/libs/openFrameworks/communication/ofSerial.h \
- /home/music/openFrameworks/libs/openFrameworks/communication/ofArduino.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofFbo.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofTexture.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofGLBaseTypes.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofGLRenderer.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofPolyline.inl \
- /home/music/openFrameworks/libs/openFrameworks/app/ofAppRunner.h \
- /home/music/openFrameworks/libs/openFrameworks/app/ofWindowSettings.h \
- /home/music/openFrameworks/libs/openFrameworks/app/ofMainLoop.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/of3dGraphics.h \
- /home/music/openFrameworks/libs/openFrameworks/3d/of3dPrimitives.h \
- /home/music/openFrameworks/libs/openFrameworks/3d/ofMesh.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofGLUtils.h \
- /home/music/openFrameworks/libs/openFrameworks/3d/ofMesh.inl \
- /home/music/openFrameworks/libs/openFrameworks/3d/ofNode.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofBitmapFont.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofPixels.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofGraphics.h \
- /home/music/openFrameworks/libs/openFrameworks/utils/ofMatrixStack.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofPath.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofVboMesh.h \
- /home/music/openFrameworks/libs/openFrameworks/3d/ofMesh.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofVbo.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofBufferObject.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofTessellator.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofLight.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofMaterial.h \
- /home/music/openFrameworks/libs/openFrameworks/gl/ofShader.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofCairoRenderer.h \
+ ../../../libs/tess2/include/tesselator.h \
+ ../../../libs/openFrameworks/utils/ofFileUtils.h \
+ ../../../libs/openFrameworks/utils/ofLog.h \
+ ../../../libs/openFrameworks/utils/ofSystemUtils.h \
+ ../../../libs/openFrameworks/utils/ofURLFileLoader.h \
+ ../../../libs/openFrameworks/events/ofEvents.h \
+ ../../../libs/openFrameworks/events/ofEventUtils.h \
+ ../../../libs/openFrameworks/events/ofEvent.h \
+ ../../../libs/openFrameworks/utils/ofTimer.h \
+ ../../../libs/openFrameworks/utils/ofUtils.h \
+ ../../../libs/utf8/include/utf8.h \
+ ../../../libs/utf8/include/utf8/checked.h \
+ ../../../libs/utf8/include/utf8/core.h \
+ ../../../libs/utf8/include/utf8/unchecked.h \
+ ../../../libs/openFrameworks/utils/ofFpsCounter.h \
+ ../../../libs/glm/include/glm/vec2.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_bool2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/type_vec2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/qualifier.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../simd/platform.h \
+ ../../../libs/glm/include/glm/./ext/../detail/type_vec2.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/./compute_vector_relational.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/./setup.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_bool2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_float2.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_float2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_double2.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_double2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_int2.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_int2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_uint2.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_uint2_precision.hpp \
+ ../../../libs/openFrameworks/utils/ofThread.h \
+ ../../../libs/openFrameworks/utils/ofThreadChannel.h \
+ ../../../libs/openFrameworks/utils/ofJson.h \
+ ../../../libs/json/include/json.hpp \
+ ../../../libs/openFrameworks/types/ofParameter.h \
+ ../../../libs/openFrameworks/types/ofPoint.h \
+ ../../../libs/openFrameworks/math/ofVec3f.h \
+ ../../../libs/openFrameworks/math/ofVec2f.h \
+ ../../../libs/openFrameworks/math/ofMathConstants.h \
+ ../../../libs/glm/include/glm/fwd.hpp \
+ ../../../libs/openFrameworks/math/ofVec4f.h \
+ ../../../libs/glm/include/glm/vec4.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_bool4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/type_vec4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/type_vec4.inl \
+ ../../../libs/glm/include/glm/./ext/vector_bool4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_float4.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_float4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_double4.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_double4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_int4.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_int4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_uint4.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_uint4_precision.hpp \
+ ../../../libs/glm/include/glm/vec3.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_bool3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/type_vec3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/type_vec3.inl \
+ ../../../libs/glm/include/glm/./ext/vector_bool3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_float3.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_float3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_double3.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_double3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_int3.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_int3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_uint3.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_uint3_precision.hpp \
+ ../../../libs/openFrameworks/types/ofRectangle.h \
+ ../../../libs/openFrameworks/types/ofColor.h \
+ ../../../libs/glm/include/glm/common.hpp \
+ ../../../libs/glm/include/glm/detail/_fixes.hpp \
+ ../../../libs/glm/include/glm/detail/func_common.inl \
+ ../../../libs/glm/include/glm/detail/../vector_relational.hpp \
+ ../../../libs/glm/include/glm/detail/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/detail/../detail/func_vector_relational.inl \
+ ../../../libs/glm/include/glm/detail/compute_common.hpp \
+ ../../../libs/glm/include/glm/detail/setup.hpp \
+ ../../../libs/glm/include/glm/detail/type_vec1.hpp \
+ ../../../libs/glm/include/glm/detail/type_vec1.inl \
+ ../../../libs/glm/include/glm/detail/_vectorize.hpp \
+ ../../../libs/openFrameworks/utils/ofXml.h \
+ ../../../libs/openFrameworks/graphics/ofGraphicsBaseTypes.h \
+ ../../../libs/openFrameworks/graphics/ofGraphicsConstants.h \
+ ../../../libs/openFrameworks/types/ofTypes.h \
+ ../../../libs/openFrameworks/types/ofParameterGroup.h \
+ ../../../libs/openFrameworks/math/ofMath.h \
+ ../../../libs/glm/include/glm/gtc/constants.hpp \
+ ../../../libs/glm/include/glm/gtc/../ext/scalar_constants.hpp \
+ ../../../libs/glm/include/glm/gtc/../ext/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/gtc/../ext/scalar_constants.inl \
+ ../../../libs/glm/include/glm/gtc/constants.inl \
+ ../../../libs/openFrameworks/math/ofVectorMath.h \
+ ../../../libs/glm/include/glm/mat3x3.hpp \
+ ../../../libs/glm/include/glm/./ext/matrix_double3x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/type_mat3x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/type_mat3x3.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/../matrix.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../mat2x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x2.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../mat2x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../mat2x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../mat3x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../mat3x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../mat4x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x2.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../mat4x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x3.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../mat4x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x4.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../detail/func_matrix.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/../detail/../geometric.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../detail/../detail/func_geometric.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/../detail/../detail/../exponential.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../detail/../detail/../detail/func_exponential.inl \
+ ../../../libs/glm/include/glm/./ext/matrix_double3x3_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/matrix_float3x3.hpp \
+ ../../../libs/glm/include/glm/./ext/matrix_float3x3_precision.hpp \
+ ../../../libs/glm/include/glm/trigonometric.hpp \
+ ../../../libs/glm/include/glm/detail/setup.hpp \
+ ../../../libs/glm/include/glm/detail/func_trigonometric.inl \
+ ../../../libs/glm/include/glm/ext.hpp \
+ ../../../libs/glm/include/glm/glm.hpp \
+ ../../../libs/glm/include/glm/packing.hpp \
+ ../../../libs/glm/include/glm/detail/func_packing.inl \
+ ../../../libs/glm/include/glm/detail/type_half.hpp \
+ ../../../libs/glm/include/glm/detail/type_half.inl \
+ ../../../libs/glm/include/glm/integer.hpp \
+ ../../../libs/glm/include/glm/detail/func_integer.inl \
+ ../../../libs/glm/include/glm/./ext/matrix_relational.hpp \
+ ../../../libs/glm/include/glm/./ext/matrix_relational.inl \
+ ../../../libs/glm/include/glm/./ext/../ext/vector_relational.hpp \
+ ../../../libs/glm/include/glm/./ext/../ext/vector_relational.inl \
+ ../../../libs/glm/include/glm/./ext/../ext/../detail/type_float.hpp \
+ ../../../libs/glm/include/glm/./ext/../ext/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/./ext/quaternion_double.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/type_quat.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../ext/quaternion_relational.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../ext/quaternion_relational.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/../gtc/matrix_transform.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_projection.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_projection.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_clip_space.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_clip_space.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_transform.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_transform.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/../gtc/matrix_transform.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/type_quat.inl \
+ ../../../libs/glm/include/glm/./ext/../detail/../ext/quaternion_geometric.hpp \
+ ../../../libs/glm/include/glm/./ext/../detail/../ext/quaternion_geometric.inl \
+ ../../../libs/glm/include/glm/./ext/quaternion_double_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/quaternion_float.hpp \
+ ../../../libs/glm/include/glm/./ext/quaternion_float_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/scalar_int_sized.hpp \
+ ../../../libs/glm/include/glm/./ext/scalar_relational.hpp \
+ ../../../libs/glm/include/glm/./ext/scalar_relational.inl \
+ ../../../libs/glm/include/glm/./ext/../ext/scalar_uint_sized.hpp \
+ ../../../libs/glm/include/glm/./ext/../ext/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_bool1.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_bool1_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_double1.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_double1_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_float1.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_float1_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_int1.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_int1_precision.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_uint1.hpp \
+ ../../../libs/glm/include/glm/./ext/vector_uint1_precision.hpp \
+ ../../../libs/glm/include/glm/./gtc/bitfield.hpp \
+ ../../../libs/glm/include/glm/./gtc/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/./gtc/type_precision.hpp \
+ ../../../libs/glm/include/glm/./gtc/../gtc/quaternion.hpp \
+ ../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_common.hpp \
+ ../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_common.inl \
+ ../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_trigonometric.hpp \
+ ../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_trigonometric.inl \
+ ../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_transform.hpp \
+ ../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_transform.inl \
+ ../../../libs/glm/include/glm/./gtc/../gtc/quaternion.inl \
+ ../../../libs/glm/include/glm/./gtc/../gtc/epsilon.hpp \
+ ../../../libs/glm/include/glm/./gtc/../gtc/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/./gtc/../gtc/epsilon.inl \
+ ../../../libs/glm/include/glm/./gtc/../gtc/vec1.hpp \
+ ../../../libs/glm/include/glm/./gtc/type_precision.inl \
+ ../../../libs/glm/include/glm/./gtc/bitfield.inl \
+ ../../../libs/glm/include/glm/./gtc/../simd/integer.h \
+ ../../../libs/glm/include/glm/./gtc/color_space.hpp \
+ ../../../libs/glm/include/glm/./gtc/color_space.inl \
+ ../../../libs/glm/include/glm/./gtc/integer.hpp \
+ ../../../libs/glm/include/glm/./gtc/integer.inl \
+ ../../../libs/glm/include/glm/./gtc/matrix_access.hpp \
+ ../../../libs/glm/include/glm/./gtc/matrix_access.inl \
+ ../../../libs/glm/include/glm/./gtc/matrix_integer.hpp \
+ ../../../libs/glm/include/glm/./gtc/matrix_inverse.hpp \
+ ../../../libs/glm/include/glm/./gtc/matrix_inverse.inl \
+ ../../../libs/glm/include/glm/./gtc/noise.hpp \
+ ../../../libs/glm/include/glm/./gtc/../detail/_noise.hpp \
+ ../../../libs/glm/include/glm/./gtc/noise.inl \
+ ../../../libs/glm/include/glm/./gtc/packing.hpp \
+ ../../../libs/glm/include/glm/./gtc/packing.inl \
+ ../../../libs/glm/include/glm/./gtc/random.hpp \
+ ../../../libs/glm/include/glm/./gtc/random.inl \
+ ../../../libs/glm/include/glm/./gtc/reciprocal.hpp \
+ ../../../libs/glm/include/glm/./gtc/reciprocal.inl \
+ ../../../libs/glm/include/glm/./gtc/round.hpp \
+ ../../../libs/glm/include/glm/./gtc/round.inl \
+ ../../../libs/glm/include/glm/./gtc/../ext/vector_integer.hpp \
+ ../../../libs/glm/include/glm/./gtc/../ext/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/./gtc/../ext/vector_integer.inl \
+ ../../../libs/glm/include/glm/./gtc/../ext/scalar_integer.hpp \
+ ../../../libs/glm/include/glm/./gtc/../ext/scalar_integer.inl \
+ ../../../libs/glm/include/glm/./gtc/type_ptr.hpp \
+ ../../../libs/glm/include/glm/./gtc/type_ptr.inl \
+ ../../../libs/glm/include/glm/./gtc/ulp.hpp \
+ ../../../libs/glm/include/glm/./gtc/ulp.inl \
+ ../../../libs/glm/include/glm/./gtc/../ext/scalar_ulp.hpp \
+ ../../../libs/glm/include/glm/./gtc/../ext/scalar_ulp.inl \
+ ../../../libs/glm/include/glm/gtx/norm.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/quaternion.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/../ext/quaternion_exponential.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/../ext/quaternion_exponential.inl \
+ ../../../libs/glm/include/glm/gtx/../gtx/quaternion.inl \
+ ../../../libs/glm/include/glm/gtx/../gtx/component_wise.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/../detail/setup.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/component_wise.inl \
+ ../../../libs/glm/include/glm/gtx/norm.inl \
+ ../../../libs/glm/include/glm/gtx/perpendicular.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/projection.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/projection.inl \
+ ../../../libs/glm/include/glm/gtx/perpendicular.inl \
+ ../../../libs/glm/include/glm/gtx/rotate_vector.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/transform.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/transform.inl \
+ ../../../libs/glm/include/glm/gtx/rotate_vector.inl \
+ ../../../libs/glm/include/glm/gtx/spline.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/optimum_pow.hpp \
+ ../../../libs/glm/include/glm/gtx/../gtx/optimum_pow.inl \
+ ../../../libs/glm/include/glm/gtx/spline.inl \
+ ../../../libs/glm/include/glm/gtx/vector_angle.hpp \
+ ../../../libs/glm/include/glm/gtx/vector_angle.inl \
+ ../../../libs/glm/include/glm/gtx/scalar_multiplication.hpp \
+ ../../../libs/glm/include/glm/gtx/../detail/setup.hpp \
+ ../../../libs/openFrameworks/math/ofMatrix3x3.h \
+ ../../../libs/openFrameworks/math/ofMatrix4x4.h \
+ ../../../libs/openFrameworks/math/ofQuaternion.h \
+ ../../../libs/openFrameworks/communication/ofSerial.h \
+ ../../../libs/openFrameworks/communication/ofArduino.h \
+ ../../../libs/openFrameworks/gl/ofFbo.h \
+ ../../../libs/openFrameworks/gl/ofTexture.h \
+ ../../../libs/openFrameworks/gl/ofGLBaseTypes.h \
+ ../../../libs/openFrameworks/gl/ofGLRenderer.h \
+ ../../../libs/openFrameworks/graphics/ofPolyline.h \
+ ../../../libs/openFrameworks/graphics/ofPolyline.inl \
+ ../../../libs/openFrameworks/app/ofAppRunner.h \
+ ../../../libs/openFrameworks/app/ofWindowSettings.h \
+ ../../../libs/openFrameworks/app/ofMainLoop.h \
+ ../../../libs/openFrameworks/graphics/of3dGraphics.h \
+ ../../../libs/openFrameworks/3d/of3dPrimitives.h \
+ ../../../libs/openFrameworks/3d/ofMesh.h \
+ ../../../libs/openFrameworks/gl/ofGLUtils.h \
+ ../../../libs/openFrameworks/3d/ofMesh.inl \
+ ../../../libs/openFrameworks/3d/ofNode.h \
+ ../../../libs/openFrameworks/graphics/ofBitmapFont.h \
+ ../../../libs/openFrameworks/graphics/ofPixels.h \
+ ../../../libs/openFrameworks/graphics/ofGraphics.h \
+ ../../../libs/openFrameworks/utils/ofMatrixStack.h \
+ ../../../libs/openFrameworks/graphics/ofPath.h \
+ ../../../libs/openFrameworks/graphics/ofPolyline.h \
+ ../../../libs/openFrameworks/gl/ofVboMesh.h \
+ ../../../libs/openFrameworks/3d/ofMesh.h \
+ ../../../libs/openFrameworks/gl/ofVbo.h \
+ ../../../libs/openFrameworks/gl/ofBufferObject.h \
+ ../../../libs/openFrameworks/graphics/ofTessellator.h \
+ ../../../libs/openFrameworks/gl/ofLight.h \
+ ../../../libs/openFrameworks/gl/ofMaterial.h \
+ ../../../libs/openFrameworks/gl/ofShader.h \
+ ../../../libs/openFrameworks/graphics/ofCairoRenderer.h \
  /usr/include/cairo/cairo.h /usr/include/cairo/cairo-version.h \
  /usr/include/cairo/cairo-features.h \
  /usr/include/cairo/cairo-deprecated.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofImage.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofRendererCollection.h \
- /home/music/openFrameworks/libs/openFrameworks/graphics/ofTrueTypeFont.h \
- /home/music/openFrameworks/libs/openFrameworks/app/ofBaseApp.h \
- /home/music/openFrameworks/libs/openFrameworks/sound/ofSoundBaseTypes.h \
- /home/music/openFrameworks/libs/openFrameworks/app/ofAppBaseWindow.h \
- /home/music/openFrameworks/libs/openFrameworks/sound/ofSoundStream.h \
- /home/music/openFrameworks/libs/openFrameworks/sound/ofSoundPlayer.h \
- /home/music/openFrameworks/libs/openFrameworks/sound/ofOpenALSoundPlayer.h \
- /home/music/openFrameworks/libs/kiss/include/kiss_fft.h \
- /home/music/openFrameworks/libs/kiss/include/kiss_fftr.h \
- /home/music/openFrameworks/libs/kiss/include/kiss_fft.h \
- /home/music/openFrameworks/libs/openFrameworks/sound/ofSoundBuffer.h \
- /home/music/openFrameworks/libs/openFrameworks/video/ofVideoGrabber.h \
- /home/music/openFrameworks/libs/openFrameworks/video/ofVideoBaseTypes.h \
- /home/music/openFrameworks/libs/openFrameworks/video/ofGstVideoGrabber.h \
- /home/music/openFrameworks/libs/openFrameworks/video/ofGstUtils.h \
+ ../../../libs/openFrameworks/graphics/ofImage.h \
+ ../../../libs/openFrameworks/graphics/ofRendererCollection.h \
+ ../../../libs/openFrameworks/graphics/ofTrueTypeFont.h \
+ ../../../libs/openFrameworks/app/ofBaseApp.h \
+ ../../../libs/openFrameworks/sound/ofSoundBaseTypes.h \
+ ../../../libs/openFrameworks/app/ofAppBaseWindow.h \
+ ../../../libs/openFrameworks/sound/ofSoundStream.h \
+ ../../../libs/openFrameworks/sound/ofSoundPlayer.h \
+ ../../../libs/openFrameworks/sound/ofOpenALSoundPlayer.h \
+ ../../../libs/kiss/include/kiss_fft.h \
+ ../../../libs/kiss/include/kiss_fftr.h \
+ ../../../libs/kiss/include/kiss_fft.h \
+ ../../../libs/openFrameworks/sound/ofSoundBuffer.h \
+ ../../../libs/openFrameworks/video/ofVideoGrabber.h \
+ ../../../libs/openFrameworks/video/ofVideoBaseTypes.h \
+ ../../../libs/openFrameworks/video/ofGstVideoGrabber.h \
+ ../../../libs/openFrameworks/video/ofGstUtils.h \
  /usr/include/gstreamer-1.0/gst/gst.h /usr/include/glib-2.0/glib.h \
  /usr/include/glib-2.0/glib/galloca.h /usr/include/glib-2.0/glib/gtypes.h \
  /usr/lib/arm-linux-gnueabihf/glib-2.0/include/glibconfig.h \
@@ -611,38 +611,50 @@ obj/linuxarmv6l/Release/src/ofApp.o: \
  /usr/include/gstreamer-1.0/gst/video/videoorientation.h \
  /usr/include/gstreamer-1.0/gst/video/video-overlay-composition.h \
  /usr/include/gstreamer-1.0/gst/video/videooverlay.h \
- /home/music/openFrameworks/libs/openFrameworks/video/ofVideoPlayer.h \
- /home/music/openFrameworks/libs/openFrameworks/video/ofGstVideoPlayer.h \
- /home/music/openFrameworks/libs/openFrameworks/3d/of3dUtils.h \
- /home/music/openFrameworks/libs/openFrameworks/3d/ofCamera.h \
- /home/music/openFrameworks/libs/openFrameworks/3d/ofEasyCam.h \
- /home/music/openFrameworks/addons/ofxLua/src/ofxLua.h \
+ ../../../libs/openFrameworks/video/ofVideoPlayer.h \
+ ../../../libs/openFrameworks/video/ofGstVideoPlayer.h \
+ ../../../libs/openFrameworks/3d/of3dUtils.h \
+ ../../../libs/openFrameworks/3d/ofCamera.h \
+ ../../../libs/openFrameworks/3d/ofEasyCam.h \
+ /sdcard/openFrameworks/addons/ofxLua/src/ofxLua.h \
  /usr/include/luajit-2.0/lua.hpp /usr/include/luajit-2.0/lua.h \
  /usr/include/luajit-2.0/luaconf.h /usr/include/luajit-2.0/lauxlib.h \
  /usr/include/luajit-2.0/lualib.h /usr/include/luajit-2.0/luajit.h \
- /home/music/openFrameworks/addons/ofxLua/src/ofxLuaFileWriter.h \
- /home/music/openFrameworks/addons/ofxOsc/src/ofxOsc.h \
- /home/music/openFrameworks/addons/ofxOsc/src/ofxOscArg.h \
- /home/music/openFrameworks/addons/ofxOsc/src/ofxOscMessage.h \
- /home/music/openFrameworks/addons/ofxOsc/src/ofxOscSender.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscException.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/UdpSocket.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h \
- /home/music/openFrameworks/addons/ofxOsc/src/ofxOscBundle.h \
- /home/music/openFrameworks/addons/ofxOsc/src/ofxOscReceiver.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPacketListener.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h \
- /home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/../ip/PacketListener.h
+ /sdcard/openFrameworks/addons/ofxLua/src/ofxLuaFileWriter.h \
+ /sdcard/openFrameworks/addons/ofxOsc/src/ofxOsc.h \
+ /sdcard/openFrameworks/addons/ofxOsc/src/ofxOscArg.h \
+ /sdcard/openFrameworks/addons/ofxOsc/src/ofxOscMessage.h \
+ /sdcard/openFrameworks/addons/ofxOsc/src/ofxOscSender.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscException.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/UdpSocket.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h \
+ /sdcard/openFrameworks/addons/ofxOsc/src/ofxOscBundle.h \
+ /sdcard/openFrameworks/addons/ofxOsc/src/ofxOscReceiver.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPacketListener.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h \
+ /sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/../ip/PacketListener.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxMidi.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiIn.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxBaseMidi.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiConstants.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiMessage.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiTypes.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/desktop/ofxRtMidiIn.h \
+ /sdcard/openFrameworks/addons/ofxMidi/libs/rtmidi/RtMidi.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiOut.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/desktop/ofxRtMidiOut.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiClock.h \
+ /sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiTimecode.h
 
-/home/music/openFrameworks/apps/myApps/eyesy/src/ofApp.h:
+/sdcard/openFrameworks/apps/myApps/eyesy/src/ofApp.h:
 
-/home/music/openFrameworks/libs/openFrameworks/ofMain.h:
+../../../libs/openFrameworks/ofMain.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofConstants.h:
+../../../libs/openFrameworks/utils/ofConstants.h:
 
 /opt/vc/include/bcm_host.h:
 
@@ -802,655 +814,655 @@ obj/linuxarmv6l/Release/src/ofApp.o: \
 
 /opt/vc/include/EGL/eglext_brcm.h:
 
-/home/music/openFrameworks/libs/tess2/include/tesselator.h:
+../../../libs/tess2/include/tesselator.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofFileUtils.h:
+../../../libs/openFrameworks/utils/ofFileUtils.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofLog.h:
+../../../libs/openFrameworks/utils/ofLog.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofSystemUtils.h:
+../../../libs/openFrameworks/utils/ofSystemUtils.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofURLFileLoader.h:
+../../../libs/openFrameworks/utils/ofURLFileLoader.h:
 
-/home/music/openFrameworks/libs/openFrameworks/events/ofEvents.h:
+../../../libs/openFrameworks/events/ofEvents.h:
 
-/home/music/openFrameworks/libs/openFrameworks/events/ofEventUtils.h:
+../../../libs/openFrameworks/events/ofEventUtils.h:
 
-/home/music/openFrameworks/libs/openFrameworks/events/ofEvent.h:
+../../../libs/openFrameworks/events/ofEvent.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofTimer.h:
+../../../libs/openFrameworks/utils/ofTimer.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofUtils.h:
+../../../libs/openFrameworks/utils/ofUtils.h:
 
-/home/music/openFrameworks/libs/utf8/include/utf8.h:
+../../../libs/utf8/include/utf8.h:
 
-/home/music/openFrameworks/libs/utf8/include/utf8/checked.h:
+../../../libs/utf8/include/utf8/checked.h:
 
-/home/music/openFrameworks/libs/utf8/include/utf8/core.h:
+../../../libs/utf8/include/utf8/core.h:
 
-/home/music/openFrameworks/libs/utf8/include/utf8/unchecked.h:
+../../../libs/utf8/include/utf8/unchecked.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofFpsCounter.h:
+../../../libs/openFrameworks/utils/ofFpsCounter.h:
 
-/home/music/openFrameworks/libs/glm/include/glm/vec2.hpp:
+../../../libs/glm/include/glm/vec2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool2.hpp:
+../../../libs/glm/include/glm/./ext/vector_bool2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/type_vec2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/qualifier.hpp:
+../../../libs/glm/include/glm/./ext/../detail/qualifier.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/setup.hpp:
+../../../libs/glm/include/glm/./ext/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../simd/platform.h:
+../../../libs/glm/include/glm/./ext/../detail/../simd/platform.h:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec2.inl:
+../../../libs/glm/include/glm/./ext/../detail/type_vec2.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/./compute_vector_relational.hpp:
+../../../libs/glm/include/glm/./ext/../detail/./compute_vector_relational.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/./setup.hpp:
+../../../libs/glm/include/glm/./ext/../detail/./setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool2_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_bool2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float2.hpp:
+../../../libs/glm/include/glm/./ext/vector_float2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float2_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_float2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double2.hpp:
+../../../libs/glm/include/glm/./ext/vector_double2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double2_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_double2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int2.hpp:
+../../../libs/glm/include/glm/./ext/vector_int2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int2_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_int2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint2.hpp:
+../../../libs/glm/include/glm/./ext/vector_uint2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint2_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_uint2_precision.hpp:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofThread.h:
+../../../libs/openFrameworks/utils/ofThread.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofThreadChannel.h:
+../../../libs/openFrameworks/utils/ofThreadChannel.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofJson.h:
+../../../libs/openFrameworks/utils/ofJson.h:
 
-/home/music/openFrameworks/libs/json/include/json.hpp:
+../../../libs/json/include/json.hpp:
 
-/home/music/openFrameworks/libs/openFrameworks/types/ofParameter.h:
+../../../libs/openFrameworks/types/ofParameter.h:
 
-/home/music/openFrameworks/libs/openFrameworks/types/ofPoint.h:
+../../../libs/openFrameworks/types/ofPoint.h:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofVec3f.h:
+../../../libs/openFrameworks/math/ofVec3f.h:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofVec2f.h:
+../../../libs/openFrameworks/math/ofVec2f.h:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofMathConstants.h:
+../../../libs/openFrameworks/math/ofMathConstants.h:
 
-/home/music/openFrameworks/libs/glm/include/glm/fwd.hpp:
+../../../libs/glm/include/glm/fwd.hpp:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofVec4f.h:
+../../../libs/openFrameworks/math/ofVec4f.h:
 
-/home/music/openFrameworks/libs/glm/include/glm/vec4.hpp:
+../../../libs/glm/include/glm/vec4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool4.hpp:
+../../../libs/glm/include/glm/./ext/vector_bool4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/type_vec4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec4.inl:
+../../../libs/glm/include/glm/./ext/../detail/type_vec4.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool4_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_bool4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float4.hpp:
+../../../libs/glm/include/glm/./ext/vector_float4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float4_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_float4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double4.hpp:
+../../../libs/glm/include/glm/./ext/vector_double4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double4_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_double4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/setup.hpp:
+../../../libs/glm/include/glm/./ext/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int4.hpp:
+../../../libs/glm/include/glm/./ext/vector_int4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int4_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_int4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint4.hpp:
+../../../libs/glm/include/glm/./ext/vector_uint4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint4_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_uint4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/vec3.hpp:
+../../../libs/glm/include/glm/vec3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool3.hpp:
+../../../libs/glm/include/glm/./ext/vector_bool3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/type_vec3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_vec3.inl:
+../../../libs/glm/include/glm/./ext/../detail/type_vec3.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool3_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_bool3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float3.hpp:
+../../../libs/glm/include/glm/./ext/vector_float3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float3_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_float3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double3.hpp:
+../../../libs/glm/include/glm/./ext/vector_double3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double3_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_double3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int3.hpp:
+../../../libs/glm/include/glm/./ext/vector_int3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int3_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_int3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint3.hpp:
+../../../libs/glm/include/glm/./ext/vector_uint3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint3_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_uint3_precision.hpp:
 
-/home/music/openFrameworks/libs/openFrameworks/types/ofRectangle.h:
+../../../libs/openFrameworks/types/ofRectangle.h:
 
-/home/music/openFrameworks/libs/openFrameworks/types/ofColor.h:
+../../../libs/openFrameworks/types/ofColor.h:
 
-/home/music/openFrameworks/libs/glm/include/glm/common.hpp:
+../../../libs/glm/include/glm/common.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/_fixes.hpp:
+../../../libs/glm/include/glm/detail/_fixes.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/func_common.inl:
+../../../libs/glm/include/glm/detail/func_common.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/../vector_relational.hpp:
+../../../libs/glm/include/glm/detail/../vector_relational.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/../detail/setup.hpp:
+../../../libs/glm/include/glm/detail/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/../detail/func_vector_relational.inl:
+../../../libs/glm/include/glm/detail/../detail/func_vector_relational.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/compute_common.hpp:
+../../../libs/glm/include/glm/detail/compute_common.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/setup.hpp:
+../../../libs/glm/include/glm/detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/type_vec1.hpp:
+../../../libs/glm/include/glm/detail/type_vec1.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/type_vec1.inl:
+../../../libs/glm/include/glm/detail/type_vec1.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/_vectorize.hpp:
+../../../libs/glm/include/glm/detail/_vectorize.hpp:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofXml.h:
+../../../libs/openFrameworks/utils/ofXml.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:
+../../../libs/openFrameworks/graphics/ofGraphicsBaseTypes.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofGraphicsConstants.h:
+../../../libs/openFrameworks/graphics/ofGraphicsConstants.h:
 
-/home/music/openFrameworks/libs/openFrameworks/types/ofTypes.h:
+../../../libs/openFrameworks/types/ofTypes.h:
 
-/home/music/openFrameworks/libs/openFrameworks/types/ofParameterGroup.h:
+../../../libs/openFrameworks/types/ofParameterGroup.h:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofMath.h:
+../../../libs/openFrameworks/math/ofMath.h:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtc/constants.hpp:
+../../../libs/glm/include/glm/gtc/constants.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtc/../ext/scalar_constants.hpp:
+../../../libs/glm/include/glm/gtc/../ext/scalar_constants.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtc/../ext/../detail/setup.hpp:
+../../../libs/glm/include/glm/gtc/../ext/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtc/../ext/scalar_constants.inl:
+../../../libs/glm/include/glm/gtc/../ext/scalar_constants.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtc/constants.inl:
+../../../libs/glm/include/glm/gtc/constants.inl:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofVectorMath.h:
+../../../libs/openFrameworks/math/ofVectorMath.h:
 
-/home/music/openFrameworks/libs/glm/include/glm/mat3x3.hpp:
+../../../libs/glm/include/glm/mat3x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_double3x3.hpp:
+../../../libs/glm/include/glm/./ext/matrix_double3x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_mat3x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/type_mat3x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_mat3x3.inl:
+../../../libs/glm/include/glm/./ext/../detail/type_mat3x3.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../matrix.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../matrix.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/setup.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat2x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../mat2x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x2.inl:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x2.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x2_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x2_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat2x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../mat2x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x3.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat2x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../mat2x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat2x4.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double2x4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float2x4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat3x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../mat3x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x2.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat3x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../mat3x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat3x4.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double3x4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float3x4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat4x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../mat4x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x2.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x2.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x2.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x2_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat4x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../mat4x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x3.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x3.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../mat4x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../mat4x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/../detail/type_mat4x4.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_double4x4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x4.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x4.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp:
+../../../libs/glm/include/glm/./ext/../detail/.././ext/matrix_float4x4_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/func_matrix.inl:
+../../../libs/glm/include/glm/./ext/../detail/../detail/func_matrix.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/../geometric.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../detail/../geometric.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/../detail/func_geometric.inl:
+../../../libs/glm/include/glm/./ext/../detail/../detail/../detail/func_geometric.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/../detail/../exponential.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../detail/../detail/../exponential.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../detail/../detail/../detail/func_exponential.inl:
+../../../libs/glm/include/glm/./ext/../detail/../detail/../detail/../detail/func_exponential.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_double3x3_precision.hpp:
+../../../libs/glm/include/glm/./ext/matrix_double3x3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_float3x3.hpp:
+../../../libs/glm/include/glm/./ext/matrix_float3x3.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_float3x3_precision.hpp:
+../../../libs/glm/include/glm/./ext/matrix_float3x3_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/trigonometric.hpp:
+../../../libs/glm/include/glm/trigonometric.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/setup.hpp:
+../../../libs/glm/include/glm/detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/func_trigonometric.inl:
+../../../libs/glm/include/glm/detail/func_trigonometric.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/ext.hpp:
+../../../libs/glm/include/glm/ext.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/glm.hpp:
+../../../libs/glm/include/glm/glm.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/packing.hpp:
+../../../libs/glm/include/glm/packing.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/func_packing.inl:
+../../../libs/glm/include/glm/detail/func_packing.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/type_half.hpp:
+../../../libs/glm/include/glm/detail/type_half.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/type_half.inl:
+../../../libs/glm/include/glm/detail/type_half.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/integer.hpp:
+../../../libs/glm/include/glm/integer.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/detail/func_integer.inl:
+../../../libs/glm/include/glm/detail/func_integer.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_relational.hpp:
+../../../libs/glm/include/glm/./ext/matrix_relational.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/matrix_relational.inl:
+../../../libs/glm/include/glm/./ext/matrix_relational.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/vector_relational.hpp:
+../../../libs/glm/include/glm/./ext/../ext/vector_relational.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/vector_relational.inl:
+../../../libs/glm/include/glm/./ext/../ext/vector_relational.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/../detail/type_float.hpp:
+../../../libs/glm/include/glm/./ext/../ext/../detail/type_float.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/../detail/setup.hpp:
+../../../libs/glm/include/glm/./ext/../ext/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/quaternion_double.hpp:
+../../../libs/glm/include/glm/./ext/quaternion_double.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_quat.hpp:
+../../../libs/glm/include/glm/./ext/../detail/type_quat.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../ext/quaternion_relational.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../ext/quaternion_relational.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../ext/quaternion_relational.inl:
+../../../libs/glm/include/glm/./ext/../detail/../ext/quaternion_relational.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/matrix_transform.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../gtc/matrix_transform.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_projection.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_projection.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_projection.inl:
+../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_projection.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_clip_space.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_clip_space.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_clip_space.inl:
+../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_clip_space.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_transform.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_transform.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_transform.inl:
+../../../libs/glm/include/glm/./ext/../detail/../gtc/../ext/matrix_transform.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../gtc/matrix_transform.inl:
+../../../libs/glm/include/glm/./ext/../detail/../gtc/matrix_transform.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/type_quat.inl:
+../../../libs/glm/include/glm/./ext/../detail/type_quat.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../ext/quaternion_geometric.hpp:
+../../../libs/glm/include/glm/./ext/../detail/../ext/quaternion_geometric.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../detail/../ext/quaternion_geometric.inl:
+../../../libs/glm/include/glm/./ext/../detail/../ext/quaternion_geometric.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/quaternion_double_precision.hpp:
+../../../libs/glm/include/glm/./ext/quaternion_double_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/quaternion_float.hpp:
+../../../libs/glm/include/glm/./ext/quaternion_float.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/quaternion_float_precision.hpp:
+../../../libs/glm/include/glm/./ext/quaternion_float_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/scalar_int_sized.hpp:
+../../../libs/glm/include/glm/./ext/scalar_int_sized.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/scalar_relational.hpp:
+../../../libs/glm/include/glm/./ext/scalar_relational.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/scalar_relational.inl:
+../../../libs/glm/include/glm/./ext/scalar_relational.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/scalar_uint_sized.hpp:
+../../../libs/glm/include/glm/./ext/../ext/scalar_uint_sized.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/../ext/../detail/setup.hpp:
+../../../libs/glm/include/glm/./ext/../ext/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool1.hpp:
+../../../libs/glm/include/glm/./ext/vector_bool1.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_bool1_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_bool1_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double1.hpp:
+../../../libs/glm/include/glm/./ext/vector_double1.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_double1_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_double1_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float1.hpp:
+../../../libs/glm/include/glm/./ext/vector_float1.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_float1_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_float1_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int1.hpp:
+../../../libs/glm/include/glm/./ext/vector_int1.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_int1_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_int1_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint1.hpp:
+../../../libs/glm/include/glm/./ext/vector_uint1.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./ext/vector_uint1_precision.hpp:
+../../../libs/glm/include/glm/./ext/vector_uint1_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/bitfield.hpp:
+../../../libs/glm/include/glm/./gtc/bitfield.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../detail/setup.hpp:
+../../../libs/glm/include/glm/./gtc/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/type_precision.hpp:
+../../../libs/glm/include/glm/./gtc/type_precision.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/quaternion.hpp:
+../../../libs/glm/include/glm/./gtc/../gtc/quaternion.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_common.hpp:
+../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_common.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_common.inl:
+../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_common.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_trigonometric.hpp:
+../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_trigonometric.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_trigonometric.inl:
+../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_trigonometric.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_transform.hpp:
+../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_transform.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_transform.inl:
+../../../libs/glm/include/glm/./gtc/../gtc/../ext/quaternion_transform.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/quaternion.inl:
+../../../libs/glm/include/glm/./gtc/../gtc/quaternion.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/epsilon.hpp:
+../../../libs/glm/include/glm/./gtc/../gtc/epsilon.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/../detail/setup.hpp:
+../../../libs/glm/include/glm/./gtc/../gtc/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/epsilon.inl:
+../../../libs/glm/include/glm/./gtc/../gtc/epsilon.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../gtc/vec1.hpp:
+../../../libs/glm/include/glm/./gtc/../gtc/vec1.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/type_precision.inl:
+../../../libs/glm/include/glm/./gtc/type_precision.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/bitfield.inl:
+../../../libs/glm/include/glm/./gtc/bitfield.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../simd/integer.h:
+../../../libs/glm/include/glm/./gtc/../simd/integer.h:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/color_space.hpp:
+../../../libs/glm/include/glm/./gtc/color_space.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/color_space.inl:
+../../../libs/glm/include/glm/./gtc/color_space.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/integer.hpp:
+../../../libs/glm/include/glm/./gtc/integer.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/integer.inl:
+../../../libs/glm/include/glm/./gtc/integer.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_access.hpp:
+../../../libs/glm/include/glm/./gtc/matrix_access.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_access.inl:
+../../../libs/glm/include/glm/./gtc/matrix_access.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_integer.hpp:
+../../../libs/glm/include/glm/./gtc/matrix_integer.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_inverse.hpp:
+../../../libs/glm/include/glm/./gtc/matrix_inverse.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/matrix_inverse.inl:
+../../../libs/glm/include/glm/./gtc/matrix_inverse.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/noise.hpp:
+../../../libs/glm/include/glm/./gtc/noise.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../detail/_noise.hpp:
+../../../libs/glm/include/glm/./gtc/../detail/_noise.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/noise.inl:
+../../../libs/glm/include/glm/./gtc/noise.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/packing.hpp:
+../../../libs/glm/include/glm/./gtc/packing.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/packing.inl:
+../../../libs/glm/include/glm/./gtc/packing.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/random.hpp:
+../../../libs/glm/include/glm/./gtc/random.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/random.inl:
+../../../libs/glm/include/glm/./gtc/random.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/reciprocal.hpp:
+../../../libs/glm/include/glm/./gtc/reciprocal.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/reciprocal.inl:
+../../../libs/glm/include/glm/./gtc/reciprocal.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/round.hpp:
+../../../libs/glm/include/glm/./gtc/round.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/round.inl:
+../../../libs/glm/include/glm/./gtc/round.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/vector_integer.hpp:
+../../../libs/glm/include/glm/./gtc/../ext/vector_integer.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/../detail/setup.hpp:
+../../../libs/glm/include/glm/./gtc/../ext/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/vector_integer.inl:
+../../../libs/glm/include/glm/./gtc/../ext/vector_integer.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/scalar_integer.hpp:
+../../../libs/glm/include/glm/./gtc/../ext/scalar_integer.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/scalar_integer.inl:
+../../../libs/glm/include/glm/./gtc/../ext/scalar_integer.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/type_ptr.hpp:
+../../../libs/glm/include/glm/./gtc/type_ptr.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/type_ptr.inl:
+../../../libs/glm/include/glm/./gtc/type_ptr.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/ulp.hpp:
+../../../libs/glm/include/glm/./gtc/ulp.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/ulp.inl:
+../../../libs/glm/include/glm/./gtc/ulp.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/scalar_ulp.hpp:
+../../../libs/glm/include/glm/./gtc/../ext/scalar_ulp.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/./gtc/../ext/scalar_ulp.inl:
+../../../libs/glm/include/glm/./gtc/../ext/scalar_ulp.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/norm.hpp:
+../../../libs/glm/include/glm/gtx/norm.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/quaternion.hpp:
+../../../libs/glm/include/glm/gtx/../gtx/quaternion.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/../ext/quaternion_exponential.hpp:
+../../../libs/glm/include/glm/gtx/../gtx/../ext/quaternion_exponential.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/../ext/quaternion_exponential.inl:
+../../../libs/glm/include/glm/gtx/../gtx/../ext/quaternion_exponential.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/quaternion.inl:
+../../../libs/glm/include/glm/gtx/../gtx/quaternion.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/component_wise.hpp:
+../../../libs/glm/include/glm/gtx/../gtx/component_wise.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/../detail/setup.hpp:
+../../../libs/glm/include/glm/gtx/../gtx/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/component_wise.inl:
+../../../libs/glm/include/glm/gtx/../gtx/component_wise.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/norm.inl:
+../../../libs/glm/include/glm/gtx/norm.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/perpendicular.hpp:
+../../../libs/glm/include/glm/gtx/perpendicular.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/projection.hpp:
+../../../libs/glm/include/glm/gtx/../gtx/projection.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/projection.inl:
+../../../libs/glm/include/glm/gtx/../gtx/projection.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/perpendicular.inl:
+../../../libs/glm/include/glm/gtx/perpendicular.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/rotate_vector.hpp:
+../../../libs/glm/include/glm/gtx/rotate_vector.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/transform.hpp:
+../../../libs/glm/include/glm/gtx/../gtx/transform.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/transform.inl:
+../../../libs/glm/include/glm/gtx/../gtx/transform.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/rotate_vector.inl:
+../../../libs/glm/include/glm/gtx/rotate_vector.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/spline.hpp:
+../../../libs/glm/include/glm/gtx/spline.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/optimum_pow.hpp:
+../../../libs/glm/include/glm/gtx/../gtx/optimum_pow.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../gtx/optimum_pow.inl:
+../../../libs/glm/include/glm/gtx/../gtx/optimum_pow.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/spline.inl:
+../../../libs/glm/include/glm/gtx/spline.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/vector_angle.hpp:
+../../../libs/glm/include/glm/gtx/vector_angle.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/vector_angle.inl:
+../../../libs/glm/include/glm/gtx/vector_angle.inl:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/scalar_multiplication.hpp:
+../../../libs/glm/include/glm/gtx/scalar_multiplication.hpp:
 
-/home/music/openFrameworks/libs/glm/include/glm/gtx/../detail/setup.hpp:
+../../../libs/glm/include/glm/gtx/../detail/setup.hpp:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofMatrix3x3.h:
+../../../libs/openFrameworks/math/ofMatrix3x3.h:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofMatrix4x4.h:
+../../../libs/openFrameworks/math/ofMatrix4x4.h:
 
-/home/music/openFrameworks/libs/openFrameworks/math/ofQuaternion.h:
+../../../libs/openFrameworks/math/ofQuaternion.h:
 
-/home/music/openFrameworks/libs/openFrameworks/communication/ofSerial.h:
+../../../libs/openFrameworks/communication/ofSerial.h:
 
-/home/music/openFrameworks/libs/openFrameworks/communication/ofArduino.h:
+../../../libs/openFrameworks/communication/ofArduino.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofFbo.h:
+../../../libs/openFrameworks/gl/ofFbo.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofTexture.h:
+../../../libs/openFrameworks/gl/ofTexture.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofGLBaseTypes.h:
+../../../libs/openFrameworks/gl/ofGLBaseTypes.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofGLRenderer.h:
+../../../libs/openFrameworks/gl/ofGLRenderer.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h:
+../../../libs/openFrameworks/graphics/ofPolyline.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofPolyline.inl:
+../../../libs/openFrameworks/graphics/ofPolyline.inl:
 
-/home/music/openFrameworks/libs/openFrameworks/app/ofAppRunner.h:
+../../../libs/openFrameworks/app/ofAppRunner.h:
 
-/home/music/openFrameworks/libs/openFrameworks/app/ofWindowSettings.h:
+../../../libs/openFrameworks/app/ofWindowSettings.h:
 
-/home/music/openFrameworks/libs/openFrameworks/app/ofMainLoop.h:
+../../../libs/openFrameworks/app/ofMainLoop.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/of3dGraphics.h:
+../../../libs/openFrameworks/graphics/of3dGraphics.h:
 
-/home/music/openFrameworks/libs/openFrameworks/3d/of3dPrimitives.h:
+../../../libs/openFrameworks/3d/of3dPrimitives.h:
 
-/home/music/openFrameworks/libs/openFrameworks/3d/ofMesh.h:
+../../../libs/openFrameworks/3d/ofMesh.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofGLUtils.h:
+../../../libs/openFrameworks/gl/ofGLUtils.h:
 
-/home/music/openFrameworks/libs/openFrameworks/3d/ofMesh.inl:
+../../../libs/openFrameworks/3d/ofMesh.inl:
 
-/home/music/openFrameworks/libs/openFrameworks/3d/ofNode.h:
+../../../libs/openFrameworks/3d/ofNode.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofBitmapFont.h:
+../../../libs/openFrameworks/graphics/ofBitmapFont.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofPixels.h:
+../../../libs/openFrameworks/graphics/ofPixels.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofGraphics.h:
+../../../libs/openFrameworks/graphics/ofGraphics.h:
 
-/home/music/openFrameworks/libs/openFrameworks/utils/ofMatrixStack.h:
+../../../libs/openFrameworks/utils/ofMatrixStack.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofPath.h:
+../../../libs/openFrameworks/graphics/ofPath.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h:
+../../../libs/openFrameworks/graphics/ofPolyline.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofVboMesh.h:
+../../../libs/openFrameworks/gl/ofVboMesh.h:
 
-/home/music/openFrameworks/libs/openFrameworks/3d/ofMesh.h:
+../../../libs/openFrameworks/3d/ofMesh.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofVbo.h:
+../../../libs/openFrameworks/gl/ofVbo.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofBufferObject.h:
+../../../libs/openFrameworks/gl/ofBufferObject.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofTessellator.h:
+../../../libs/openFrameworks/graphics/ofTessellator.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofLight.h:
+../../../libs/openFrameworks/gl/ofLight.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofMaterial.h:
+../../../libs/openFrameworks/gl/ofMaterial.h:
 
-/home/music/openFrameworks/libs/openFrameworks/gl/ofShader.h:
+../../../libs/openFrameworks/gl/ofShader.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofCairoRenderer.h:
+../../../libs/openFrameworks/graphics/ofCairoRenderer.h:
 
 /usr/include/cairo/cairo.h:
 
@@ -1460,39 +1472,39 @@ obj/linuxarmv6l/Release/src/ofApp.o: \
 
 /usr/include/cairo/cairo-deprecated.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofImage.h:
+../../../libs/openFrameworks/graphics/ofImage.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofRendererCollection.h:
+../../../libs/openFrameworks/graphics/ofRendererCollection.h:
 
-/home/music/openFrameworks/libs/openFrameworks/graphics/ofTrueTypeFont.h:
+../../../libs/openFrameworks/graphics/ofTrueTypeFont.h:
 
-/home/music/openFrameworks/libs/openFrameworks/app/ofBaseApp.h:
+../../../libs/openFrameworks/app/ofBaseApp.h:
 
-/home/music/openFrameworks/libs/openFrameworks/sound/ofSoundBaseTypes.h:
+../../../libs/openFrameworks/sound/ofSoundBaseTypes.h:
 
-/home/music/openFrameworks/libs/openFrameworks/app/ofAppBaseWindow.h:
+../../../libs/openFrameworks/app/ofAppBaseWindow.h:
 
-/home/music/openFrameworks/libs/openFrameworks/sound/ofSoundStream.h:
+../../../libs/openFrameworks/sound/ofSoundStream.h:
 
-/home/music/openFrameworks/libs/openFrameworks/sound/ofSoundPlayer.h:
+../../../libs/openFrameworks/sound/ofSoundPlayer.h:
 
-/home/music/openFrameworks/libs/openFrameworks/sound/ofOpenALSoundPlayer.h:
+../../../libs/openFrameworks/sound/ofOpenALSoundPlayer.h:
 
-/home/music/openFrameworks/libs/kiss/include/kiss_fft.h:
+../../../libs/kiss/include/kiss_fft.h:
 
-/home/music/openFrameworks/libs/kiss/include/kiss_fftr.h:
+../../../libs/kiss/include/kiss_fftr.h:
 
-/home/music/openFrameworks/libs/kiss/include/kiss_fft.h:
+../../../libs/kiss/include/kiss_fft.h:
 
-/home/music/openFrameworks/libs/openFrameworks/sound/ofSoundBuffer.h:
+../../../libs/openFrameworks/sound/ofSoundBuffer.h:
 
-/home/music/openFrameworks/libs/openFrameworks/video/ofVideoGrabber.h:
+../../../libs/openFrameworks/video/ofVideoGrabber.h:
 
-/home/music/openFrameworks/libs/openFrameworks/video/ofVideoBaseTypes.h:
+../../../libs/openFrameworks/video/ofVideoBaseTypes.h:
 
-/home/music/openFrameworks/libs/openFrameworks/video/ofGstVideoGrabber.h:
+../../../libs/openFrameworks/video/ofGstVideoGrabber.h:
 
-/home/music/openFrameworks/libs/openFrameworks/video/ofGstUtils.h:
+../../../libs/openFrameworks/video/ofGstUtils.h:
 
 /usr/include/gstreamer-1.0/gst/gst.h:
 
@@ -1900,17 +1912,17 @@ obj/linuxarmv6l/Release/src/ofApp.o: \
 
 /usr/include/gstreamer-1.0/gst/video/videooverlay.h:
 
-/home/music/openFrameworks/libs/openFrameworks/video/ofVideoPlayer.h:
+../../../libs/openFrameworks/video/ofVideoPlayer.h:
 
-/home/music/openFrameworks/libs/openFrameworks/video/ofGstVideoPlayer.h:
+../../../libs/openFrameworks/video/ofGstVideoPlayer.h:
 
-/home/music/openFrameworks/libs/openFrameworks/3d/of3dUtils.h:
+../../../libs/openFrameworks/3d/of3dUtils.h:
 
-/home/music/openFrameworks/libs/openFrameworks/3d/ofCamera.h:
+../../../libs/openFrameworks/3d/ofCamera.h:
 
-/home/music/openFrameworks/libs/openFrameworks/3d/ofEasyCam.h:
+../../../libs/openFrameworks/3d/ofEasyCam.h:
 
-/home/music/openFrameworks/addons/ofxLua/src/ofxLua.h:
+/sdcard/openFrameworks/addons/ofxLua/src/ofxLua.h:
 
 /usr/include/luajit-2.0/lua.hpp:
 
@@ -1924,36 +1936,60 @@ obj/linuxarmv6l/Release/src/ofApp.o: \
 
 /usr/include/luajit-2.0/luajit.h:
 
-/home/music/openFrameworks/addons/ofxLua/src/ofxLuaFileWriter.h:
+/sdcard/openFrameworks/addons/ofxLua/src/ofxLuaFileWriter.h:
 
-/home/music/openFrameworks/addons/ofxOsc/src/ofxOsc.h:
+/sdcard/openFrameworks/addons/ofxOsc/src/ofxOsc.h:
 
-/home/music/openFrameworks/addons/ofxOsc/src/ofxOscArg.h:
+/sdcard/openFrameworks/addons/ofxOsc/src/ofxOscArg.h:
 
-/home/music/openFrameworks/addons/ofxOsc/src/ofxOscMessage.h:
+/sdcard/openFrameworks/addons/ofxOsc/src/ofxOscMessage.h:
 
-/home/music/openFrameworks/addons/ofxOsc/src/ofxOscSender.h:
+/sdcard/openFrameworks/addons/ofxOsc/src/ofxOscSender.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscOutboundPacketStream.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscTypes.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscException.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscException.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/UdpSocket.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/UdpSocket.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h:
 
-/home/music/openFrameworks/addons/ofxOsc/src/ofxOscBundle.h:
+/sdcard/openFrameworks/addons/ofxOsc/src/ofxOscBundle.h:
 
-/home/music/openFrameworks/addons/ofxOsc/src/ofxOscReceiver.h:
+/sdcard/openFrameworks/addons/ofxOsc/src/ofxOscReceiver.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPacketListener.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscPacketListener.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/OscReceivedElements.h:
 
-/home/music/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/../ip/PacketListener.h:
+/sdcard/openFrameworks/addons/ofxOsc/libs/oscpack/src/osc/../ip/PacketListener.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxMidi.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiIn.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxBaseMidi.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiConstants.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiMessage.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiTypes.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/desktop/ofxRtMidiIn.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/libs/rtmidi/RtMidi.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiOut.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/desktop/ofxRtMidiOut.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiClock.h:
+
+/sdcard/openFrameworks/addons/ofxMidi/src/ofxMidiTimecode.h:

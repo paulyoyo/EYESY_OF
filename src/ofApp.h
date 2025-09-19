@@ -11,12 +11,19 @@
 #include "ofMain.h"
 #include "ofxLua.h"
 #include "ofxOsc.h"
+#include "ofxMidi.h"
+
+// Forward declaration
+class ofxMidiClock;
 
 #define PORT 4000
+#define MIDI_BUFFER_SIZE 256
 
-class ofApp : public ofBaseApp, ofxLuaListener {
+class ofApp : public ofBaseApp, ofxLuaListener, ofxMidiListener {
 
     public:
+        ofApp();
+        ~ofApp();
 
         // main
         void setup();
@@ -63,4 +70,25 @@ class ofApp : public ofBaseApp, ofxLuaListener {
         int                 snapCounter;
         string              snapString;
         ofImage             img;
+        
+        // Persist graphics functionality
+        bool                persistEnabled;
+        bool                persistFirstRender;
+        ofFbo               persistFbo;
+
+        // MIDI functionality
+        ofxMidiIn           midiIn;
+        vector<vector<lua_Number>> midiMessages;
+        void                newMidiMessage(ofxMidiMessage& eventArgs);
+        void                setupMidi();
+        
+        // MIDI Clock functionality  
+        ofxMidiClock*       midiClock;
+        
+        // OSD functionality
+        bool                osdEnabled;
+        vector<string>      recentMidiNotes;
+        float               audioLevel;
+        int                 clockMessageCount;
+        float               calculatedBPM;
 };
